@@ -172,10 +172,8 @@ Further resources:
 <a name="apl-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 * [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL. **[Deprecated]**
-
 <a name="c"></a>
 ## C
-
 <a name="c-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 * [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
